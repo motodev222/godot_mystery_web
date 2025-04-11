@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1744371315|1457144967';
+const CACHE_VERSION = '1744391634|21776520842';
 /** @type {string} */
 const CACHE_PREFIX = 'godot_mystery-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
